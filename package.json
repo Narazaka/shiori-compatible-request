@@ -1,0 +1,21 @@
+{
+	"name": "shiori-compatible-request",
+	"version": "0.0.1",
+	"description": "SHIORI 3.x -> 3.x / 2.x converter",
+	"keywords": ["ukagaka", "shiori"],
+	"main": "shiori-compatible-request.js",
+	"scripts": {
+	},
+	"dependencies": {
+		"shiorijk": ">= 0.2.2"
+	},
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Narazaka/shiori-compatible-request.git"
+	}
+}

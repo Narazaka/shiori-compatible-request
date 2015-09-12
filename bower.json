@@ -1,0 +1,16 @@
+{
+	"name": "shiori-compatible-request",
+	"version": "0.0.1",
+	"dependencies": {
+		"shiorijk": ""
+	},
+	"main": "shiori-compatible-request.js",
+	"ignore": [
+		"**/.*",
+		"bower_components",
+		"node_modules",
+		"npm-debug.log",
+		"coverage",
+		"package.json"
+	]
+}
